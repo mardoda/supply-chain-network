@@ -33,3 +33,4 @@ The primary objective is to assist XRetailer in determining the optimal number a
 ### Conclusion
 The project will deliver multiple potential solutions to help XRetailer achieve an optimized supply chain network that supports long-term strategic objectives by minimizing costs and maximizing efficiency and customer satisfaction.
 
+Full Report Analysis: [Final Project Report](Final%20Project%20Report.pdf)
